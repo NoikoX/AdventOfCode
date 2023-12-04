@@ -1,5 +1,5 @@
 mapunia = {}
-for i, x in enumerate(open("text.txt", "r")):
+for i, x in enumerate(open("input.txt", "r")):
     if i not in mapunia:
         mapunia[i] = 1
     x = x.split(":")[1].strip()
@@ -9,6 +9,7 @@ for i, x in enumerate(open("text.txt", "r")):
     for k in range(i + 1, i + n + 1):
         mapunia[k] = mapunia.get(k, 1) + mapunia[i]
 
-print(mapunia)
+
 print(sum(mapunia.values()))
+
 
