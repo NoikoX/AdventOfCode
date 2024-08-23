@@ -1,3 +1,4 @@
 # Next year will be better...
 
-![160be980-3b1a-11eb-9dbe-439a40adfa99](https://github.com/user-attachments/assets/56e68028-9e97-4a8a-83d0-3cb5412f4535)
+![144762233-2dda88fc-f026-4b04-8dff-b4c45f11bc06](https://github.com/user-attachments/assets/350f4963-fc96-41c9-a1ce-34c5ac199775)
+
